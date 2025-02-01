@@ -70,7 +70,7 @@ bibtex
   year = {2024},
   publisher = {GitHub},
   journal = {GitHub Repository},
-  howpublished = {\url{https://github.com/your-repo}}
+  howpublished = {\url{https://github.com/NLP-modle}}
 }
 💡 Contributing
 Contributions are welcome! Please open an issue or submit a pull request for improvements.
